@@ -1,0 +1,37 @@
+"File","Size","SHA256","Signature","Signer"
+"dxgi.dll","26610688","2B1DF5A3F179CA71974FA772DE73904D782EF9133FB1D15A13570D18DCCE8C89","NotSigned",
+"nvngx.dll_dlssnr.dll","151552","0A48C470BB4979065960CDF0434A006D1600D16A32C326753543545715997383","NotSigned",
+"nvngx_dlssnr.dll","165840496","E67DEE209320CDAFE0E93E45675D7AA34323A53ACC57A72B2E40A181581C989A","HashMismatch","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\amd_fidelityfx_framegeneration_dx12.dll","40085776","02297BEEDD285E822D3A64F314CF00FAF378DCEC0EDC47FF0C4DD71B3A8C2F18","Valid","CN=Advanced Micro Devices, O=Advanced Micro Devices, S=California, C=US"
+"OptiScaler\amd_fidelityfx_loader_dx12.dll","26376","E2D85AA05A9BD9ED8B38935FDF5199372CCA6F74C12015143BB6F945EE1608AA","Valid","CN=Advanced Micro Devices, O=Advanced Micro Devices, S=California, C=US"
+"OptiScaler\amd_fidelityfx_upscaler_dx12.dll","28761864","D0DCCCC74A43C44BA435B7A369B456E0970D8A4464E4BD683119B374F2C9FB46","Valid","CN=Advanced Micro Devices, O=Advanced Micro Devices, S=California, C=US"
+"OptiScaler\amd_fidelityfx_vk.dll","9332432","A1624CC4238FEF046F30C4D80CE3F47BE63FC5F5373F49E3EE9EDB9960F54C78","Valid","CN=Advanced Micro Devices, O=Advanced Micro Devices, S=California, C=US"
+"OptiScaler\D3D12Core.dll","3351064","07D286C306F8117321422AFFD9E6388C12D0FB4BE1C7FC689D9E899324FEEB24","Valid","CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+"OptiScaler\dlss-enabler-headless.dll","30712320","F131734E9BF1FD191A9F60FAD54231CD88E45ADA3C957BD02C8763F8E9AD4440","NotSigned",
+"OptiScaler\dlssg_to_fsr3_amd_is_better.dll","3038208","806020C0444F7841A3A9F661295C16FC482E981E0666D0B9624BF6CCD19C4B5E","NotSigned",
+"OptiScaler\libxell.dll","415368","D2030DCD694FDA8F2EC7E044B13E6DB8F0B56D4BA9113A5EFAD334E3F3DED8C7","Valid","CN=Intel Corporation, O=Intel Corporation, S=California, C=US"
+"OptiScaler\libxess.dll","77795704","251659DD84A3E84DE67C886A4186E01F3ECA49B00641906FE38BB6B807E5D5B7","Valid","CN=Intel Corporation, O=Intel Corporation, S=California, C=US"
+"OptiScaler\libxess_dx11.dll","156016","C7CFE86F0C9D94E4FB3696D3CD5035E2BBB6A8B1B0572F8B7395A4CDFD0C625E","Valid","CN=Intel Corporation, O=Intel Corporation, S=California, C=US"
+"OptiScaler\libxess_fg.dll","22957432","EC5E0C65E075570C6EDE72618BB666D0BE0C2E10B2EA9762C0FE8CB8E375AB27","Valid","CN=Intel Corporation, O=Intel Corporation, S=California, C=US"
+"OptiScaler\nvsmooth30.dll","89088","CCABEA501DCF051E7F258943B8EF613467142494F187B6FB5D4C727C458FC7B8","NotSigned",
+"OptiScaler\dlssg_sm86\dlssg_sm86.dll","33231360","7489A89BF593CDA243D95C62E6D8B75905D9774E27B7B2D53B91625A79C05CA4","NotSigned",
+"OptiScaler\nvfp4\hybrid\candidate\split-half\params_builder.dll","55808","59C9DA127EF3FEB56939632004ED0921621DCB6BE5F8630C00E7AC89F7763A04","NotSigned",
+"OptiScaler\nvfp4\hybrid\expansion\params_builder.dll","55296","5B5A8902DD856AAE752BAFC3EA30DB9A69BEB348A0F50FB79BF1377F690FF4FB","NotSigned",
+"OptiScaler\streamline\NvLowLatencyVk.dll","57840","2A77DC3E1C724B7EEA5755BE0AE7423752E79A2459FAE72181A9F00E3507E5D6","Valid","CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\nvngx_deepdvc.dll","3104880","DC9562C67594FA06B763FE5D78F4AA53452C5344F8B43E6E2B81264320588500","Valid","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\nvngx_dlss.dll","58956912","3975567B8943C53ACCE397F2B72380092F84F162D00B0D2C7D08A1025C563983","Valid","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\nvngx_dlssd.dll","48343664","4BC7EA5FCB2F32CF86BC2CB072E8D2860914A0BE511CBDCB2FC206C1D9D83B80","Valid","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\nvngx_dlssg.dll","7460976","FF6E90EB78B827927DFF5B4ECC6B1C870C2E9BCA29ED9F48C7D348CC9E170B82","Valid","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\nvngx_dlssnr.dll","165840496","E16BCF15E16E13F527491CDF7845B2FE6521A738D8F7C9C721866A8496E1FC8E","Valid","CN=NVIDIA Corporation, OU=1005bk6, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.common.dll","843392","82924A8954DD671E09351C5DE0EB87AD0EB25B944CC9F9AB955CA1D9950DE15D","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.deepdvc.dll","376448","E4B7E83C9E67EAB7023222AF13DE239241E8A09BDB63FAF26F803E9FD0F3E9C9","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.directsr.dll","369792","4B2C0C90195C3A9991B4E0B59004113511A90802C85D81FC7FAA7C7C75F53927","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.dlss.dll","422016","73BF52C0CFAA5900A8F3F4A91306E4625E7CCA696DFB305AAE44C9F97B582E1F","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.dlss_d.dll","437376","026B9F4F9EA848F2F5AA0E2024FC6B1C885F57EEA5D41078124DBA14F873B86B","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.dlss_g.dll","636032","F4A6B2B14DCC0B1485989E430D3B4E3A44AC1800B92BA1AD74F476E64FB2B09C","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.dlss_nr.dll","401024","9F6672E5E0170DC118A3188D21BDA187E1FC1AA3502895B21AB846D23165C11D","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.interposer.dll","652928","8C87C9499461DA561EDD529AA9BF7831D67D7B94EBB1C1A5ED54EF4934E1EA4C","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.nis.dll","1155712","556870E456D268601188919927B3B122F76B25F9B221CC4B15D3EF649F0AD27B","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.nvperf.dll","761472","B4CA8F8EEBA653446F27D20E8B394CDAAE5D518C1292B440A4B97652E0F0376B","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.pcl.dll","360064","F13D51CFA05F4CD514DF2026049E2DB8ADF359221713170AD386FD499915B582","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+"OptiScaler\streamline\sl.reflex.dll","388736","0CE9725E3E03EA9E7F81D008B57F33EE365973D2E349131C8B1C3E3378FE2DB0","Valid","CN=NVIDIA Corporation, OU=2008B9F, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"

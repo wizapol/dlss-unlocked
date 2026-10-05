@@ -67,6 +67,7 @@ env:
 
 jobs:
   check-versions:
+    if: github.repository == 'ShyVortex/dlss-unlocked'
     runs-on: windows-latest
     outputs:
       should_build_nightly: ${{ steps.version_check.outputs.should_build_nightly }}
@@ -450,7 +451,7 @@ jobs:
 
   build-installer:
     needs: check-versions
-    if: needs.check-versions.outputs.should_build_nightly == 'true' || needs.check-versions.outputs.should_build_latest == 'true'
+    if: github.repository == 'ShyVortex/dlss-unlocked' && (needs.check-versions.outputs.should_build_nightly == 'true' || needs.check-versions.outputs.should_build_latest == 'true')
     runs-on: windows-latest
     strategy:
       matrix:

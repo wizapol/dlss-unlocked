@@ -1,0 +1,359 @@
+﻿{
+    "Version":  "NR-v0.9.34",
+    "Files":  [
+                  {
+                      "Path":  "dxgi.dll",
+                      "SHA256":  "2B1DF5A3F179CA71974FA772DE73904D782EF9133FB1D15A13570D18DCCE8C89",
+                      "Size":  26610688
+                  },
+                  {
+                      "Path":  "nvngx.dll_dlssnr.dll",
+                      "SHA256":  "0A48C470BB4979065960CDF0434A006D1600D16A32C326753543545715997383",
+                      "Size":  151552
+                  },
+                  {
+                      "Path":  "nvngx_dlssnr.dll",
+                      "SHA256":  "E67DEE209320CDAFE0E93E45675D7AA34323A53ACC57A72B2E40A181581C989A",
+                      "Size":  165840496
+                  },
+                  {
+                      "Path":  "OptiScaler.ini",
+                      "SHA256":  "9A86AFC94B2D492EBE419C9F33BE847907872184F16434ABB373E11B05F15EE4",
+                      "Size":  66138
+                  },
+                  {
+                      "Path":  "Licenses\\AMD_FidelityFX_LICENSE.txt",
+                      "SHA256":  "180D1FB9197916D80E2A03053D4DC78690A106B21BBA3D8D6AF7D8DF6DE35BC2",
+                      "Size":  1103
+                  },
+                  {
+                      "Path":  "Licenses\\DirectX_LICENSE.txt",
+                      "SHA256":  "5239850894610071566F7ECEE0B751FDE43C862032D92B99D7D0F596B3433EBD",
+                      "Size":  13147
+                  },
+                  {
+                      "Path":  "Licenses\\DISCLAIMER.txt",
+                      "SHA256":  "DCDBBEE0CA86D86F0B341B5897B88BF205F6675DCB0A8EF0DA27A93C17450E82",
+                      "Size":  5082
+                  },
+                  {
+                      "Path":  "Licenses\\dlssg_sm86_THIRD_PARTY_NOTICES.txt",
+                      "SHA256":  "2F57E223C3CFE951379DA7C0DF5A14F897387D63DD79AFF583B22A78E9B276AC",
+                      "Size":  2920
+                  },
+                  {
+                      "Path":  "Licenses\\DLSSG_to_FSR3_LICENSE.txt",
+                      "SHA256":  "E6F1D12E0233BEEA7AC9BCBC312E2AE04B0F0D0BECE16B1C0460CA1BCCD26422",
+                      "Size":  6800
+                  },
+                  {
+                      "Path":  "Licenses\\FidelityFX_v2_LICENSE.md",
+                      "SHA256":  "F0DA09D71AD5C82759A179E774535D4A829E5C96C49294167C1152402B2CB400",
+                      "Size":  61784
+                  },
+                  {
+                      "Path":  "Licenses\\Intel_XeSS_LICENSE.txt",
+                      "SHA256":  "784BE42C39A4A4D03CF85D88E15E59D75828FCA773CE45B8DBFFFBD7EAF208DF",
+                      "Size":  4194
+                  },
+                  {
+                      "Path":  "Licenses\\NVIDIA_Streamline_LICENSE.txt",
+                      "SHA256":  "89CF67EB2CED34374B7632FD6642C659937401802AAA37B58CA59EAD6A71CCD9",
+                      "Size":  1145
+                  },
+                  {
+                      "Path":  "Licenses\\RenoDX_ATTRIBUTION.txt",
+                      "SHA256":  "1D2F2B2F8CF5C9ACFE2EAAA2D2C22FACE87BD19F7DF85453079A28E7123AE727",
+                      "Size":  2976
+                  },
+                  {
+                      "Path":  "Licenses\\XeSS_LICENSE.txt",
+                      "SHA256":  "784BE42C39A4A4D03CF85D88E15E59D75828FCA773CE45B8DBFFFBD7EAF208DF",
+                      "Size":  4194
+                  },
+                  {
+                      "Path":  "OptiScaler\\amd_fidelityfx_framegeneration_dx12.dll",
+                      "SHA256":  "02297BEEDD285E822D3A64F314CF00FAF378DCEC0EDC47FF0C4DD71B3A8C2F18",
+                      "Size":  40085776
+                  },
+                  {
+                      "Path":  "OptiScaler\\amd_fidelityfx_loader_dx12.dll",
+                      "SHA256":  "E2D85AA05A9BD9ED8B38935FDF5199372CCA6F74C12015143BB6F945EE1608AA",
+                      "Size":  26376
+                  },
+                  {
+                      "Path":  "OptiScaler\\amd_fidelityfx_upscaler_dx12.dll",
+                      "SHA256":  "D0DCCCC74A43C44BA435B7A369B456E0970D8A4464E4BD683119B374F2C9FB46",
+                      "Size":  28761864
+                  },
+                  {
+                      "Path":  "OptiScaler\\amd_fidelityfx_vk.dll",
+                      "SHA256":  "A1624CC4238FEF046F30C4D80CE3F47BE63FC5F5373F49E3EE9EDB9960F54C78",
+                      "Size":  9332432
+                  },
+                  {
+                      "Path":  "OptiScaler\\D3D12Core.dll",
+                      "SHA256":  "07D286C306F8117321422AFFD9E6388C12D0FB4BE1C7FC689D9E899324FEEB24",
+                      "Size":  3351064
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlss-enabler-headless.dll",
+                      "SHA256":  "F131734E9BF1FD191A9F60FAD54231CD88E45ADA3C957BD02C8763F8E9AD4440",
+                      "Size":  30712320
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_to_fsr3_amd_is_better.dll",
+                      "SHA256":  "806020C0444F7841A3A9F661295C16FC482E981E0666D0B9624BF6CCD19C4B5E",
+                      "Size":  3038208
+                  },
+                  {
+                      "Path":  "OptiScaler\\libxell.dll",
+                      "SHA256":  "D2030DCD694FDA8F2EC7E044B13E6DB8F0B56D4BA9113A5EFAD334E3F3DED8C7",
+                      "Size":  415368
+                  },
+                  {
+                      "Path":  "OptiScaler\\libxess.dll",
+                      "SHA256":  "251659DD84A3E84DE67C886A4186E01F3ECA49B00641906FE38BB6B807E5D5B7",
+                      "Size":  77795704
+                  },
+                  {
+                      "Path":  "OptiScaler\\libxess_dx11.dll",
+                      "SHA256":  "C7CFE86F0C9D94E4FB3696D3CD5035E2BBB6A8B1B0572F8B7395A4CDFD0C625E",
+                      "Size":  156016
+                  },
+                  {
+                      "Path":  "OptiScaler\\libxess_fg.dll",
+                      "SHA256":  "EC5E0C65E075570C6EDE72618BB666D0BE0C2E10B2EA9762C0FE8CB8E375AB27",
+                      "Size":  22957432
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvngx.ini",
+                      "SHA256":  "CF4F79FEF83FFF9CE119B0CB69FB25CCB1A0F8FFABD70A1F469D4BB7287080C0",
+                      "Size":  14246
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvsmooth30.dll",
+                      "SHA256":  "CCABEA501DCF051E7F258943B8EF613467142494F187B6FB5D4C727C458FC7B8",
+                      "Size":  89088
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\.commit_sha",
+                      "SHA256":  "338A454FDC4680C3A39A2CBCE9142E72A40FCF1EDE0F3FA54476974B1C606CAF",
+                      "Size":  14
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\.source_repo",
+                      "SHA256":  "2BE4C9272FD38AF742D36AAD9BDEA56A17FC7D57A8EE8E0F7D14AD91ACAA8DF6",
+                      "Size":  27
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\checksums.sha256",
+                      "SHA256":  "DCEA83B8732FA2748F55A99822EC78E15C4ACC97AB594827F848F95D8BD468BE",
+                      "Size":  164
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\dlssg_sm86.dll",
+                      "SHA256":  "7489A89BF593CDA243D95C62E6D8B75905D9774E27B7B2D53B91625A79C05CA4",
+                      "Size":  33231360
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\dlssg_sm86.ini",
+                      "SHA256":  "D6E676AD584E0D793C86DEB724990D304F0050C4F35D1B6D43FC9F11DFE3EEBF",
+                      "Size":  329
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\ReShade.ini",
+                      "SHA256":  "5B70BD19872967EAB348E7B0E979C96B67846D7E964654DB9C5026F553F0B148",
+                      "Size":  483
+                  },
+                  {
+                      "Path":  "OptiScaler\\dlssg_sm86\\THIRD_PARTY_NOTICES.txt",
+                      "SHA256":  "2F57E223C3CFE951379DA7C0DF5A14F897387D63DD79AFF583B22A78E9B276AC",
+                      "Size":  2920
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contracts.txt",
+                      "SHA256":  "57C4627AEB05E8EFE16F5F1116C06CD12AFBE527A772BE9D3C02F3DF7FF154AC",
+                      "Size":  116
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\original_io.cubin",
+                      "SHA256":  "9DEF9AF8E5EBF6A17CD8DC2F8CA36D6BD5BDC1EB8C927F9D9A890E38FDE0890E",
+                      "Size":  82712
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\sm120_16255890_da0cd6180a8a.cubin",
+                      "SHA256":  "DA0CD6180A8A4D739C3BD94ADE55CBAFC4246039A4F7C3DC8CC1A93DDD79DF31",
+                      "Size":  2706504
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\weights.bin",
+                      "SHA256":  "735F0A04A156DCF625097AE34222827BB9CBAB8C4C69D09418A7E577034A0371",
+                      "Size":  37765120
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\weights.txt",
+                      "SHA256":  "DC15DA940164CD71EB619AE24D85F9C3DDF3E84CA332445FA9EE6FED00B444AB",
+                      "Size":  636
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\candidate\\split-half\\fused_expand.cubin",
+                      "SHA256":  "D516FE1AC387D59F83B097214CA9B89FCEBC86F26367F9DDC7E8CB692E776659",
+                      "Size":  5013480
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\candidate\\split-half\\params_builder.dll",
+                      "SHA256":  "59C9DA127EF3FEB56939632004ED0921621DCB6BE5F8630C00E7AC89F7763A04",
+                      "Size":  55808
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract\\manifest.txt",
+                      "SHA256":  "F7E18E5A454ABAAA61FAF56040A8C44A25661F98ADA48E7F4358BA022C9067B4",
+                      "Size":  590
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract\\params.bin",
+                      "SHA256":  "928907D65A5C714799B78F002A610837C264A2A00B0AAE3ABA838D25A05B2551",
+                      "Size":  3456
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract_m2160\\manifest.txt",
+                      "SHA256":  "F37A469B587BD0ED254FCB04D99F6B7AD791A27204ECB03A2A4988254BE8E203",
+                      "Size":  591
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract_m2160\\params.bin",
+                      "SHA256":  "4F11BA182D9929B2D221AE7F7C7575DD9D6AC61F6D50BF3DD8B7E42A44D8126E",
+                      "Size":  3456
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract_m3840\\manifest.txt",
+                      "SHA256":  "F11AFD6AFFB0B438313367D885E5BD33FAE01A77A7C370DD3F31822530BE7717",
+                      "Size":  591
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\contract_m3840\\params.bin",
+                      "SHA256":  "E19897F8174AAF4FAC22DB6C7E9AC52B0BD4AF6B17A283BE07280DA697667698",
+                      "Size":  3456
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\expansion\\fused_expand.cubin",
+                      "SHA256":  "FE7F5700AC5E6D5A2FE6571D0F369C9432FABCB29120FDFA33F1EC1C05727EE1",
+                      "Size":  4960880
+                  },
+                  {
+                      "Path":  "OptiScaler\\nvfp4\\hybrid\\expansion\\params_builder.dll",
+                      "SHA256":  "5B5A8902DD856AAE752BAFC3EA30DB9A69BEB348A0F50FB79BF1377F690FF4FB",
+                      "Size":  55296
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nis.license.txt",
+                      "SHA256":  "F80ECFBCE8A84A5B4C1C59DC5A9F0EE9CF5A989C9FBA3A9486EE874F7595A454",
+                      "Size":  1199
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\NvLowLatencyVk.dll",
+                      "SHA256":  "2A77DC3E1C724B7EEA5755BE0AE7423752E79A2459FAE72181A9F00E3507E5D6",
+                      "Size":  57840
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_deepdvc.dll",
+                      "SHA256":  "DC9562C67594FA06B763FE5D78F4AA53452C5344F8B43E6E2B81264320588500",
+                      "Size":  3104880
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_dlss.dll",
+                      "SHA256":  "3975567B8943C53ACCE397F2B72380092F84F162D00B0D2C7D08A1025C563983",
+                      "Size":  58956912
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_dlss.license.txt",
+                      "SHA256":  "3027F23CA5A46DD9CB8183FBD522983A86F64D7DAAC5982912BF9F214671F294",
+                      "Size":  26727
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_dlssd.dll",
+                      "SHA256":  "4BC7EA5FCB2F32CF86BC2CB072E8D2860914A0BE511CBDCB2FC206C1D9D83B80",
+                      "Size":  48343664
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_dlssg.dll",
+                      "SHA256":  "FF6E90EB78B827927DFF5B4ECC6B1C870C2E9BCA29ED9F48C7D348CC9E170B82",
+                      "Size":  7460976
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\nvngx_dlssnr.dll",
+                      "SHA256":  "E16BCF15E16E13F527491CDF7845B2FE6521A738D8F7C9C721866A8496E1FC8E",
+                      "Size":  165840496
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\reflex.license.txt",
+                      "SHA256":  "EBF83C07FB3B2939908C3795D887AFDE3161C89A28BA391724EFC784CE1BDABE",
+                      "Size":  20504
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.common.dll",
+                      "SHA256":  "82924A8954DD671E09351C5DE0EB87AD0EB25B944CC9F9AB955CA1D9950DE15D",
+                      "Size":  843392
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.deepdvc.dll",
+                      "SHA256":  "E4B7E83C9E67EAB7023222AF13DE239241E8A09BDB63FAF26F803E9FD0F3E9C9",
+                      "Size":  376448
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.directsr.dll",
+                      "SHA256":  "4B2C0C90195C3A9991B4E0B59004113511A90802C85D81FC7FAA7C7C75F53927",
+                      "Size":  369792
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.dlss.dll",
+                      "SHA256":  "73BF52C0CFAA5900A8F3F4A91306E4625E7CCA696DFB305AAE44C9F97B582E1F",
+                      "Size":  422016
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.dlss_d.dll",
+                      "SHA256":  "026B9F4F9EA848F2F5AA0E2024FC6B1C885F57EEA5D41078124DBA14F873B86B",
+                      "Size":  437376
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.dlss_g.dll",
+                      "SHA256":  "F4A6B2B14DCC0B1485989E430D3B4E3A44AC1800B92BA1AD74F476E64FB2B09C",
+                      "Size":  636032
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.dlss_nr.dll",
+                      "SHA256":  "9F6672E5E0170DC118A3188D21BDA187E1FC1AA3502895B21AB846D23165C11D",
+                      "Size":  401024
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.interposer.dll",
+                      "SHA256":  "8C87C9499461DA561EDD529AA9BF7831D67D7B94EBB1C1A5ED54EF4934E1EA4C",
+                      "Size":  652928
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.nis.dll",
+                      "SHA256":  "556870E456D268601188919927B3B122F76B25F9B221CC4B15D3EF649F0AD27B",
+                      "Size":  1155712
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.nvperf.dll",
+                      "SHA256":  "B4CA8F8EEBA653446F27D20E8B394CDAAE5D518C1292B440A4B97652E0F0376B",
+                      "Size":  761472
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.pcl.dll",
+                      "SHA256":  "F13D51CFA05F4CD514DF2026049E2DB8ADF359221713170AD386FD499915B582",
+                      "Size":  360064
+                  },
+                  {
+                      "Path":  "OptiScaler\\streamline\\sl.reflex.dll",
+                      "SHA256":  "0CE9725E3E03EA9E7F81D008B57F33EE365973D2E349131C8B1C3E3378FE2DB0",
+                      "Size":  388736
+                  }
+              ],
+    "Schema":  1,
+    "Reason":  "Static inspection only; binary provenance and runtime behavior are not fully verified.",
+    "Approved":  false,
+    "PackageSHA256":  "5da85b5d829b391f36936f434f50ae1fbfce4b9e75f823e26debc9df8edb984f"
+}
